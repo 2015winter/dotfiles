@@ -4,6 +4,7 @@ Personal-used vim configuration file is here.
 - Mac
 - Windows   -- [Gvim](http://www.vim.org/download.php)
 - Linux
+
 # Install
 ### Install vimrc
 ```
